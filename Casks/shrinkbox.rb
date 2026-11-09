@@ -1,6 +1,6 @@
 cask "shrinkbox" do
-  version "0.3.0"
-  sha256 "bc10a972911771dde3cbebc17ca18a3f684f059ef863a69c59e40bac8a963ed5"
+  version "0.3.1"
+  sha256 "f6491a3191203d759cc08a54ea885c624b1cfa35a51a9bce7992b66e18dea908"
 
   url "https://github.com/Arrows78/Shrinkbox/releases/download/v#{version}/Shrinkbox-#{version}.zip"
   name "Shrinkbox"
